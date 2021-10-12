@@ -11,11 +11,11 @@ export default class Birthday extends Component {
             playing={true}
             loop={true}
             playsinline={true}
-            muted={false}
+            muted={true}
             width='100%'
             height='80%'
             playIcon={<button>Play</button>}
-            light="https://m.media-amazon.com/images/I/51UW1849rJL._AC_SY355_.jpg"
+            light="https://images.pexels.com/videos/3045163/free-video-3045163.jpg?auto=compress&cs=tinysrgb&w=325&dpr=1"
           />
       </div>
     )
